@@ -37,6 +37,7 @@
     "nodemon": "^2.0.2"
   },
   "scripts": {
+    "deploy" : "prisma deploy",
     "dev": "nodemon --exec babel-node src/server.js"
   }
 }
