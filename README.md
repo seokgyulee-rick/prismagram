@@ -1,9 +1,11 @@
 # prismagram
+
 instagram clone with Express + React + React Native + Prisma done by Seokgyu-Rick
 
 ## User Stories
 
-- [ ] Log in
+- [ ] Request Secret
+- [ ] Confirm Secret (Login)
 - [ ] Like / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Search by user
